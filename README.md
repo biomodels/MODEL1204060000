@@ -1,3 +1,21 @@
+# MODEL1204060000: Kubota2012_InsulinAction_AKTpathway
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL1204060000.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL1204060000.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -25,4 +43,5 @@ molecules selectively decode secretion patterns of insulin.
   
 
 **Note:** Created by The MathWorks, Inc. SimBiology tool, Version 3.3 
+
 
